@@ -1,4 +1,4 @@
-# multimodal-handwritten-digits
+# Multimodal Handwritten Digits (MHD) dataset
 Official repository of the Multimodal Handwritten Digits (MHD) dataset.
 
 
